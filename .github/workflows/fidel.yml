@@ -7,7 +7,7 @@ on:
   pull request:
     branches:
       - main
-      workflow dispatch:
+  workflow dispatch:
 
 jobs:
   hello:
